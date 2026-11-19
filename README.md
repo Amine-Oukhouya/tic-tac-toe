@@ -1,16 +1,39 @@
-# React + Vite
+🎮 Tic-Tac-Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Tic-Tac-Toe game built with React and Vite.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Play Tic-Tac-Toe
 
-## React Compiler
+📸 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a classic two-player Tic-Tac-Toe game developed as part of my journey learning React.
 
-## Expanding the ESLint configuration
+The goal was to practice React fundamentals, particularly components, state management, and event handling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+
+Two-player gameplay.
+
+Interactive game board.
+
+Automatic winner detection.
+
+Draw detection.
+
+Game reset functionality.
+
+Responsive user interface.
+
+🛠️ Built With
+
+React – UI library.
+
+Vite – Frontend build tool.
+
+JavaScript – Application logic.
+
+CSS – Styling.
+
+Made By @Amine-Oukhouya
