@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+::root{
+  --whitebackground:#F8FAFC;
+  --specialBlue: #3B5998  ;
+  --hovercolor: #F0F4F8;
+}
+body{
+  background: var(--whitebackground);
+}
